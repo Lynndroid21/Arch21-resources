@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Dracula Theme v1.4.3
+<!-- Arch21 Default Theme v1
 #
-# https://github.com/dracula/sublime
+# https://github.com/Lynndroid21/Arch21
 #
-# Copyright 2013-present, All rights reserved
+# Copyright 2025-present, All rights reserved
 #
 # Code licensed under the MIT license
 #
-# @author Zeno Rocha <hi@zenorocha.com>
+#
 -->
 
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Dracula</string>
+	<string>Arch21 Default</string>
 	<key>settings</key>
 	<array>
 		<dict>

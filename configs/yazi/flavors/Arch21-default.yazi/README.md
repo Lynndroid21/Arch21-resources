@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-	Dracula Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+	Arch21 Default Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
 ## 👀 Preview
@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```sh
-ya pkg add yazi-rs/flavors:dracula
+ya pkg add yazi-rs/flavors:Arch21-default
 ```
 
 ## ⚙️ Usage
@@ -22,7 +22,7 @@ Set the content of your `theme.toml` to enable it as your _dark_ flavor:
 
 ```toml
 [flavor]
-dark = "dracula"
+dark = "Arch21-default"
 ```
 
 Make sure your `theme.toml` doesn't contain anything other than `[flavor]`, unless you want to override certain styles of this flavor.
